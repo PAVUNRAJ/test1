@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7A51-CE4D
+
+ Directory of C:\Users\PAVUN RAJ\Desktop\My projects
+
+12/04/2017  01:37 PM    <DIR>          .
+12/04/2017  01:37 PM    <DIR>          ..
+12/04/2017  01:37 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   4,579,004,416 bytes free
