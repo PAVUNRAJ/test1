@@ -1,0 +1,2 @@
+bash.exe.stackdump  pavun.txt	raj.txt		  text.txt
+index.html	    pavun1.txt	sh.exe.stackdump
